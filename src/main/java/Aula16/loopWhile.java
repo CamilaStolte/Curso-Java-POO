@@ -20,7 +20,7 @@ public class loopWhile {
 		do {
 			i++;
 			System.out.println("Valor de i: " + i);
-		} while (i < 15);
+		} while (i < 11);
 		
 		System.out.println(i);
 	}

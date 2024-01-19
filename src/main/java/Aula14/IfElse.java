@@ -18,7 +18,7 @@ public class IfElse {
 			System.out.println("É menor de idade");
 		}*/
 		
-		System.out.println(" Digite o preço do item");
+		System.out.println("Digite o preço do item: ");
 		double valor = scan.nextDouble();
 		
 		if (valor <= 10) {
